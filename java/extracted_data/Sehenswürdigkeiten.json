@@ -1,0 +1,635 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "formatted_address" : "Str. des 18. Oktober 100, 04299 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3123671,
+               "lng" : 12.4132675
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.31536679999999,
+                  "lng" : 12.41500115
+               },
+               "southwest" : {
+                  "lat" : 51.31136719999999,
+                  "lng" : 12.40806655
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "29adf5b5345700b001b1bc919ddce15165437118",
+         "name" : "Völkerschlachtdenkmal",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113658272408055066305/photos\"\u003eJan Bulvas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1PYaTwpXk1Qx-saUiBeRYQB93aZeiJY7zr7NPMAZD5BYtUlVmsaXkrftYvfKfoG75wFsDTmSWHmQSX0W1RdpCp0m85HqBpFYULdfXPxvklXJLHzOLoxzUWUZUvZTn8hxEhC6kdS6q71bDyFn3bP_PC28GhQlZ30CbCuQPNxbvmS80qyfMl317A",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJK8aU2Kz5pkcRlM1w_CwSwSc",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAA8aSxNlXIDhxrWUvGX-5WR2WJo1RLb0oU06sJ5TW_ZG8GKvS90PCm_hZNt5R1xMMvFa8sPGDeuv2bqIwXu1qE2N1-Bk13atbPQrtYRmw-A1x4d2Lf1LJXBIHJOWFJ671REhDRzr8mHWQka0rvMiHwtuJwGhRK-ByTBieakL3lgSI33H-h7vrjkg",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Markt 1, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3403477,
+               "lng" : 12.3752028
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3416981302915,
+                  "lng" : 12.3764978302915
+               },
+               "southwest" : {
+                  "lat" : 51.3390001697085,
+                  "lng" : 12.3737998697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "c4dcc35814ff4e699ad9ad877c7d6037f8ef10b8",
+         "name" : "Stadtgeschichtliches Museum Leipzig, Altes Rathaus",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103625070599539544162/photos\"\u003eChristian Hoemke\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd2YEAvL5AAgI84sx4aPxxMCvJbGvfHQHpNjUFZ752ZYDMGoRiyx-pxv66rOtfMBnXBXXJFRThRLFe1lLSqPcrYqss2Pf7TY58cex8VMlf18t9CR0IErXdlYNvo5FubPXEhBtUdZ-X8EZKuygehqAY6hTGhTxncv56eMiL4GzA9pC558WfIl-kg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJs_lSViH4pkcR0Opua2Vm_Rg",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAcz9ROF32TbCsykrkYtbCrcE9ByVq4dodR4Ugqtl_7ugwWJn-xyeA1xSruWNoKj8VWZaLQHjQcNx7Au4EGNMQU2CSQarUoCGJbjVWZ4pjQuhwoTjOWgOAfPf6ivkGXr3pEhAvff5Kgr1ia0gHxTyX2L5GGhRtgEFZZx10-4mJy3H8S8nJPNNLqA",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Thomaskirchhof 15, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3388229,
+               "lng" : 12.3723201
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3402175302915,
+                  "lng" : 12.3736575802915
+               },
+               "southwest" : {
+                  "lat" : 51.3375195697085,
+                  "lng" : 12.3709596197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "41414cb87e2e2dabac43e48d447724f49c8c8509",
+         "name" : "Bach-Museum Leipzig",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110245620897959388150/photos\"\u003eLaura Stokes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0a9lgDgxAN6isUBaLLPh9srovmv8qbMXrn-nnkGd_4nMx7YN3qbMH1qRH3lt3CtBnGOX8KxSCTxMAOeIHztpclrH-VzHsDbYSGXJZdgwTBiibaPeP5NHOQBL2B-jMTehEhASopqNJ4D72eZh5BazWosDGhRg8Mn0c6HQq7v1fOAA8pyvl71Piw",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJD7d4wSb4pkcRqbSU2b5zaIw",
+         "rating" : 4.6,
+         "reference" : "CmRSAAAA3BWc8UVw5fHzF3S5BkO-98RvkJI7CBELJNYHZDkrUQOwYti-fiYIkx_U8IExVomHNfclLB--Q9yeMEK8NzUZIYSEDTwX_THbEicbPnYiC2cGdepy46OHG5zTVOKFMHUvEhBIz_AUjXPK4hgxYOOLDGVzGhS7xV90tN4JFIBGZhCx9KxUcL8OkA",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Richard-Lehmann-Straße 114, 04275 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.314131,
+               "lng" : 12.387245
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.31546403029151,
+                  "lng" : 12.3885350802915
+               },
+               "southwest" : {
+                  "lat" : 51.31276606970851,
+                  "lng" : 12.3858371197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b7a7822e9d1e385bdc521ad946e7514ef80e12b0",
+         "name" : "Panometer Leipzig",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115798509176271869638/photos\"\u003ePanometer Leipzig\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj7-jVbgLNgpxen9pNlluiGaTPQQD-CH1U80JJCuDhBbElUeEe0x2Smmdzxj4HxmNcPnMHwEyZKqhLMtbN3IVO2wQUCmsH9bumOTxA_5OhVCpTf5aRN9DC4QyruQbBbNNEhAIPHrtUWweMMWhp57sImLvGhSej7FakibQBRq0OE6NUbMniOQdbA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJOc0Uzbf5pkcRQagZqFk-WDs",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAA1h3lIha4xcEV8Ism-LzdFqxWrlT-yDtK_9rjO2KGHIwJ3xLcipLmt7ce8DaT4fJMFZdrqgyztTLM-qITBN6MbXQN3FWmmy8LrqMc-2d0GKxORgRqGOFSRCu7n9cJJ_9gEhBzxtCiruU05qBWzBbD6X74GhQgAnXNqs6B5suSrf0TiuelJGgfAQ",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Katharinenstraße 10, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3426785,
+               "lng" : 12.3758124
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3440345802915,
+                  "lng" : 12.3767514302915
+               },
+               "southwest" : {
+                  "lat" : 51.3413366197085,
+                  "lng" : 12.3740534697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "d2af817d8371d18a14a269919e69ee2e3136abf2",
+         "name" : "Museum der bildenden Künste Leipzig",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3064,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111150863052625058838/photos\"\u003eAsatrU dark\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAWmHoE1J6LYAxNE-l44ivnA5PkkZSK1msHaUL10kfSnYRO5TqSzLV6kyAuBPcOD4L3EHoGNOrY_HJ2PvaqfU-CMGRGmNyf1AsVZ-zz3O8sY2jE0LbgOjrSVKKTxhB1FOmEhBPgUDDQR2ah8SIct3J_eXOGhSBhQQNsGszwNKo8_feVMwLua7inw",
+               "width" : 5456
+            }
+         ],
+         "place_id" : "ChIJ18mIhCH4pkcRJgmrNlaNFSM",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAk7hyg1tiML5xwOMhZsO-gAA6MAfv8rkKWTRA3-K4sUeWKl_ZpkqLw3nwdQ1L10tLTb6M9EK7BaWIefwox9FLVGiF1geDFXSolgPWqXF1AZoWzUcX8Mrs0oGZnq03u8_yEhA0OwLHc-xR7Z4mspmUxXdjGhTZv4qizpb21mTtu8mUa41MsOQKxA",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Johannispl. 5-11, 04103 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.336918,
+               "lng" : 12.38785
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.33822103029149,
+                  "lng" : 12.3891443302915
+               },
+               "southwest" : {
+                  "lat" : 51.3355230697085,
+                  "lng" : 12.3864463697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0755400807f7a87ee5d7e447678cea4d76a38d5c",
+         "name" : "GRASSI Museum für Völkerkunde zu Leipzig",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1517,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108243846035494909222/photos\"\u003eGRASSI Museum für Völkerkunde zu Leipzig\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_DGvMuiIl5N2MtBlChvklyeHUlqkkOf1CQrhMZ3__3cpaDedRzob3gOC9OgqmgeB3hMUN891hWn1hl3Tljtv8fQoHJz_eitOSllMXFb7qF5QqNChMgiwNpyRLl3zbXe1EhAEBdfNen5zsmgxqxUkldbHGhTR8vG4E-vGcy5cV0mGxhURNqkYXw",
+               "width" : 1520
+            }
+         ],
+         "place_id" : "ChIJD3aw3Tv4pkcRx160KbcsTPA",
+         "rating" : 4.5,
+         "reference" : "CmRSAAAAwsgF_MZttqsjOuqAsZV59hU0D5mh7AVRWUFnFEQ6vWGgJGotlS_OysGiH30YJJyI6ZB0Vsm_54OPTS3phkkZTGnBuozEvX25qUeQo_UCeqXBU1saGqby8Yb-ZWHSgdBoEhD7nkX9JFij2GdoqhIVZwebGhS4FhvVkSXGE4_Q-PjIxm3OkBPn4A",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Dittrichring 24/D, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3417677,
+               "lng" : 12.370023
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3430901302915,
+                  "lng" : 12.3712552302915
+               },
+               "southwest" : {
+                  "lat" : 51.3403921697085,
+                  "lng" : 12.3685572697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "6b6b686622889527ba13bd174f138f19ea2b38d0",
+         "name" : "Bürgerkomitee Leipzig e.V.",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114489434200278314482/photos\"\u003eMichael Goldschmidt\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqxGuTklA_w1W_3Clr6h3vkTk37bDYQZrqHGfTd9ioI4wK9D39K5U6n3apcB7tP6IQSTaAC-cKJi6VVUbjdlaAYkKPxwU0ZT9QQL8ZnXwTj2TJKE7JSbGZ0rFYXURIw2lEhAFZqDOI4V_uK13sqgo__tFGhR-fmfrIuWkHUfDj2BvAdh1uxzX-w",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJKz0VliD4pkcRG2nFweBEeEo",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAAECOTUice2B5iSZHCDT024wz8s-2Yagru9iVj1lyQjdZdlnJ6fMwvupibiDisctBANSdeT6DmyHay7lY9P_6rcWKkB9jPjX0gz2DXMjAV6YBTsUaH1QnUVl0btR_3w589EhBrrJ7AhD-yM1WX0hjjaAziGhROTT5jXP07w3NmIGvzk6-_BsPcLg",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Philipp-Rosenthal-Straße 51A, 04103 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3241373,
+               "lng" : 12.3970453
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.32542133029149,
+                  "lng" : 12.3982419802915
+               },
+               "southwest" : {
+                  "lat" : 51.3227233697085,
+                  "lng" : 12.3955440197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "a4edc91bb6836e5503ff39474382e7bbb0afebaa",
+         "name" : "Russische Gedächtniskirche",
+         "photos" : [
+            {
+               "height" : 3691,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113217876502273898074/photos\"\u003eJoe RG Kropp\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiPSiLc7wpQwD0-plucpcEKYiERDsiXnF83redrgvQjyv6sNloL4tOayvYdyySH24aXufxWGsQf41uKhj7dMIFqVNQCMkl6HK_lRnd_4HgK9J1kA019iv1WFv5VyawjsUEhCCEdW1hd6nEbfMcFSiau6LGhSacdcuoafGuEnf2fEK2c4tdnxRYw",
+               "width" : 5536
+            }
+         ],
+         "place_id" : "ChIJW8aZgUv4pkcRIJ0MHn4IBcM",
+         "rating" : 4.4,
+         "reference" : "CmRSAAAA4B4OmDlrphbYQHRina7Uh8VdADgvdAsuqXiaieTDJD6CYFJE2faexUQfax--mSJYFF0nywxtaP2HrgfMOS0j8_YkSvN3pYqHyzl7uQhShADcNSMyUWdvDIsutMXaEAjVEhAPWgGrXwBDaWD9_BvrEF2QGhQOn9V7Rp4e79UOY1EcUofIA-9G8A",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Zentralstraße 4, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3399118,
+               "lng" : 12.3695953
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3411953802915,
+                  "lng" : 12.3710461802915
+               },
+               "southwest" : {
+                  "lat" : 51.3384974197085,
+                  "lng" : 12.3683482197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "1cf2530e6bab7bfae64ba051f31144b5557517c5",
+         "name" : "Holocaust memorial Leipzig germany",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112728097754215695578/photos\"\u003eCamilo C\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABz9zyJZbWwPatWC2A8_90XJ7ScMsggabEHQlnTH1foZSvNNCF5BsCgSbTK4BQ0zE1K8k2_XlL3JramtgRYdiWsONCTehYKlC9MoVQco10C0BLKywJwMDIvW1RmNabDB5EhDl-H_vCyKzQlQd_qwQK8e3GhS63GOZ8rptMizMXTr6_VFWFNSCNQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ-cjESSf4pkcRzyMcReq4GGU",
+         "rating" : 5,
+         "reference" : "CmRRAAAAhZX4krOdfn9q4GBH9AHd-IyOvgccGQCpsL5hY6lwraImXr4M7vDl5F9X0rxnhCtkZ0p9HkPGJcrKPeFwYvJodjr79-8mP-2xgNKMhSJIkfNjHCnxaRNaJAQF6rrI__zMEhCOcKEzHnCMYESbW9OXW2UyGhRwr3oIbIwBcHq9XDDYKJH_pUu4Ng",
+         "types" : [ "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Friedhofsweg 3, 04299 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.30845079999999,
+               "lng" : 12.4115897
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.30979978029148,
+                  "lng" : 12.4129386802915
+               },
+               "southwest" : {
+                  "lat" : 51.30710181970849,
+                  "lng" : 12.4102407197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cemetery_grave-71.png",
+         "id" : "f16863fc8d3af69f4487bef7b35a135119f35831",
+         "name" : "Südfriedhof Leipzig",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 5344,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109804295567120591417/photos\"\u003eUdo Seidig\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANxCbhGsTC764zQdIlSQrQRgOP06tgYuJvkRaBkb5DV-2LyDwTjkqt3ByOcVgOJUvx5vs61H2a9B0mEyC2k1apzv2hWpKJXUtaIbvVs0euqdzf4KKsO6ZoFgBVwDq5jN_EhA5F-H101dkbKhqEvw782FWGhTaXhl6h4MHupqxVZ1In92UH2mngA",
+               "width" : 4008
+            }
+         ],
+         "place_id" : "ChIJr4_7Iqn5pkcRMD7TXyvauEU",
+         "rating" : 4.6,
+         "reference" : "CmRRAAAAzkT1Mq_Qhpk9ohHJMMG1dqY1PTERwE3UPxVfaiiANObwnrBSPnZ9HPn-tTc93C2zTkjpKVKZ1FQpCIgxg-z_mceufj3MrIppHyXrjeb8h6cNCruCtzo3c6rgszdRNT-mEhAz2D5IVNxb1S1aFwejXsJxGhTy-LPlntLAFJac4tWsk4jgp6LxkQ",
+         "types" : [ "cemetery", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Thomaskirchhof 18, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3393349,
+               "lng" : 12.3725442
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.34076288029149,
+                  "lng" : 12.3737041802915
+               },
+               "southwest" : {
+                  "lat" : 51.33806491970849,
+                  "lng" : 12.3710062197085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "f7bd2340e1b9db3e6aa2a73827e6d3c083128c1f",
+         "name" : "Thomaskirche",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2856,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104805372911199819074/photos\"\u003eJuno Yoon\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnUC1x1nNCCcvRnldAJrPoRb4ipc8ackBHQP_ka7NK81kzx8OfNmX8seqXfdwTLgGEx_xN2chTP8dAQmLG4wAizpMex3yIDV3YEumhchZoyo1uegRXMwgFWaaJbYS6BxPEhAxlOD_SsdPaj4QcjfyXr69GhQMZY67vWTGXL2ULcE0wqx0oDGIxQ",
+               "width" : 4272
+            }
+         ],
+         "place_id" : "ChIJm5GBxCb4pkcR6HlLyYwhay0",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAAMYbhwCzh4OfohHBZGsL_vs8HSFxQPLX7JUoJ6xfI6wnarSVvpWVhVcjjSGi_KO3Beta4HaIYHRXVcaHOFlO_Ghtx38BunNu2knbcbATh0PBnW9JvWp9fgvQmaW89s42EhD6CFRnzk0KMuCeE_qskI8_GhSWpdYfi22JdhYRVRgmfb135MjUuA",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Nikolaikirchhof 3, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.34032049999999,
+               "lng" : 12.378489
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3418087302915,
+                  "lng" : 12.38005005
+               },
+               "southwest" : {
+                  "lat" : 51.3391107697085,
+                  "lng" : 12.37733545
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "058cb483b6517a6db4c8ccbbc4edd30f73ffc0a7",
+         "name" : "Nikolaikirche Leipzig",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107107353615756160254/photos\"\u003e张蕾\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkDK0YS68xlblZi6OCWE6IOYNNX-ZPoTrA6Poog8aZIdi6zj_jBqHBn5T4q57gOmANYaZx3VcoE5ZWwroeafZGgVF8O_WI9M_XSC9yD2yDFfauTvBGWijqUGME7KavP1JEhA-KI37Z8y8WDsdt8hGk8dQGhQfFcXBzbhZsLL5FlaIQnu8HSR1iQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ25PpmyP4pkcRLQzJbPlESF8",
+         "rating" : 4.5,
+         "reference" : "CmRRAAAAA9a7D3sl8RfARTqmdN6SHl3Z_Jayku2xeHrpPi0xjD9TJjVlDQutS5fvLTSEqw5cE3PYQNdsIqQpkPsXZl_mCATJClP2QUFGzxVwYzxZ8q7VxGGtJs3tEul-ubZzH5dkEhB0PYPtLg-vzudQbS5G_WrHGhQ2n_pjueynyGsBsMu7ew5o9Q4sHw",
+         "types" : [ "church", "place_of_worship", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Augustusplatz 15, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.338475,
+               "lng" : 12.3807985
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3400326802915,
+                  "lng" : 12.3823141302915
+               },
+               "southwest" : {
+                  "lat" : 51.3373347197085,
+                  "lng" : 12.3796161697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "08f39bfc2e631f6422094e34557e9501a2927295",
+         "name" : "Mendebrunnen",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1746,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117107832952254746062/photos\"\u003eThomas Hannes\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnvlEYkUR5B3gwOdi7h3pWiAdNz-a6dy1njckezjk-wccRFWaOZThoGTcbZCsYYwjpyrcO2DB9y8Z8TBDyEjNeGnzpVYLSn-AU22mtbuTzMvpojTW_fZNXAzXquqo9-OWEhBhjtaN80JRYGBXe33lC1fKGhRwM8g-27tWibjLQHpHF92__PK19Q",
+               "width" : 3104
+            }
+         ],
+         "place_id" : "ChIJWYrLuiT4pkcReyA8R-B1rnw",
+         "rating" : 4.7,
+         "reference" : "CmRRAAAAToXzo2368OwooPxHAui6FfjMDQm-SL7LKVDx8G-SkNf9C54JMX7SKefXZeML_fC2cAEfrYNOR4k446DoZbLcfIZ4pPh807l5XzBsSFbpWagySzmLpGDGIdWxCL0NNDYxEhDLMHeUBVSc4YXjBdioKSOmGhRiILXeGQS0O4q67LM9SLr-2wd-xg",
+         "types" : [ "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Menckestraße 23, 04155 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3566756,
+               "lng" : 12.3642085
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3582322802915,
+                  "lng" : 12.3656081302915
+               },
+               "southwest" : {
+                  "lat" : 51.3555343197085,
+                  "lng" : 12.3629101697085
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e7e8ec8729c16699dada97667e081feb34a35ae9",
+         "name" : "Gohliser Schlösschen (Schloss)",
+         "photos" : [
+            {
+               "height" : 600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100301630681034444464/photos\"\u003eGohliser Schlösschen (Schloss)\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAi4eK6ytGFTsq4Z5e7XYmj7Gn8kLDJsVDK2qBXbVN4ZlEhhcTg6GUXl-mo4VwbZ4cqVJWz5a9uGvowsQ5lo2LlQVwgLSIR42_dBdEzzs3Q2AFc-KZurFpTK_u_Viur6elEhC72CmDzVn2WM6W4E_14OdDGhSmpzlyiEJcDz24LZsxtBpnPGQTyA",
+               "width" : 900
+            }
+         ],
+         "place_id" : "ChIJcSI2gPD3pkcRXNCv3J2Zjlk",
+         "rating" : 4.1,
+         "reference" : "CmRRAAAAH9PHayGDzpvkiWk8anPBDnELAKQT7hqruQaFM4yoXD64ZqnICZTvvvLokbZPE7RawNTShPcUVLJMy6XLF4eGI8tBHMVdR6IjBi7x--aK--3Qr83YqKG-mKcD5q2J8PzpEhAh6IUXzRxxgnBt1-Njxhl4GhR37Gr-GbOxX83i4rUuwxs5hdJ1xg",
+         "types" : [ "art_gallery", "museum", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Martin-Luther-Ring 4, 04109 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.3361501,
+               "lng" : 12.3733601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.33762648029149,
+                  "lng" : 12.3742416
+               },
+               "southwest" : {
+                  "lat" : 51.3349285197085,
+                  "lng" : 12.3707156
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/civic_building-71.png",
+         "id" : "c5f1a92f72cfdea89e567a04d91550e23bd341af",
+         "name" : "Stadt Leipzig",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100143268573305932495/photos\"\u003eImre Környei\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhyIRTwtI4mRCiR6Kx_6Dhj4_YlsLWAaR8JlVWLxOOBuP5ZpbnTD8MmQ8gyl63rjVZ7q7siCaAgHZbC9fUXLln8uWdSsi8IuRKUgaV1Ez0FRYGcac06AioXttc4M5-1gOEhCzOs-9614onQqezgBgdKm6GhSGOH2Q_5N6KUOAwDquY3VGPB6Gew",
+               "width" : 4928
+            }
+         ],
+         "place_id" : "ChIJF7uYdSb4pkcRBjDnRge0KCQ",
+         "rating" : 4.8,
+         "reference" : "CmRRAAAAHKSRRERaOJEt1x4HfnaufEhnkBOYpf1sA2svrJUTt2dhSp5OWF5S7g1IEo-1WrAPSRaE4dcqVBIfqLJdjE8ySHG67Aflk2IOekvIgnvcspFFCtuKOwOIqbkcwJHo1ZMMEhBKi8q7FC3vavA8yrcjBQ4bGhSCcncgIh48oh0Wod4HULJKkwuDzQ",
+         "types" : [
+            "city_hall",
+            "local_government_office",
+            "point_of_interest",
+            "establishment"
+         ]
+      },
+      {
+         "formatted_address" : "Koburger Str. 12 a, 04277 Leipzig, Deutschland",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.2999173,
+               "lng" : 12.3718299
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3012520302915,
+                  "lng" : 12.3733328302915
+               },
+               "southwest" : {
+                  "lat" : 51.2985540697085,
+                  "lng" : 12.37063486970849
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_recreational-71.png",
+         "id" : "ff8cb19f27eb0e6d114a4e32d84a995d8e1f4091",
+         "name" : "Wildpark Leipzig",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1154,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102689440008485814812/photos\"\u003eAlex All\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvxGsWgGOjBKdWrd4hsADA2HVVNgbSnYzYZ6PatIOyW7KiyTp_APgcTREXbOPiCG6n9GOabVceSIrlaWcx7vAEb044Ses5Qcbup6Suu0afBQA7wT0MK7CC2GNJr3-mL7JEhDI8b7rj9E5hUAlxCn0gaygGhQn6T5uO_mIuR4LXkDHxQBGxBuCQg",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJaPfIer5pkcR52z9-dTg4Wk",
+         "rating" : 4.4,
+         "reference" : "CmRRAAAAdToYXDmpaaW-3cFCzGb-t5M80Y6HPViusDksksE4yKC-NB8UaD50uRUUf4vMCK8-FnTfe6MZyhZe1X9kfdMb9uc4YwSAHd4x7EWvWw9OU3qsCXWdoKjtKPt49ydjCiH0EhAyteX_PQKYnNqLliriSkSCGhTN5BZk0yPIfSW1dXmthKURNAfWVw",
+         "types" : [ "park", "zoo", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

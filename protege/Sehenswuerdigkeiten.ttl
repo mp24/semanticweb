@@ -1,0 +1,116 @@
+@prefix : <> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Voelkerschlachtdenkmal> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Str. des 18. Oktober 100, 04299 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Stra%C3%9Fe+des+18.+Oktober> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Voelkerschlachtdenkmal> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Stra%C3%9Fe+des+18.+Oktober> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Stadtgeschichtliches+Museum+Leipzig%2C+Altes+Rathaus> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Markt 1, 04109 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Markt> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Stadtgeschichtliches+Museum+Leipzig%2C+Altes+Rathaus> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Markt> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Bach-Museum+Leipzig> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Thomaskirchhof 15, 04109 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Thomaskirchhof> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Bach-Museum+Leipzig> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Thomaskirchhof> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Panometer+Leipzig> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Richard-Lehmann-Straße 114, 04275 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Richard-Lehmann-Straße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Panometer+Leipzig> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Richard-Lehmann-Straße> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Museum+der+bildenden+K%C3%BCnste+Leipzig> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Katharinenstraße 10, 04109 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Katharinenstraße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Museum+der+bildenden+K%C3%BCnste+Leipzig> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Katharinenstraße> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/GRASSI+Museum> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Johannispl. 5-11, 04103 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Johannisplatz> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/GRASSI+Museum> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Johannisplatz> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/B%C3%BCrgerkomitee+Leipzig+e.V.> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Dittrichring 24/D, 04109 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Dittrichring> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/B%C3%BCrgerkomitee+Leipzig+e.V.> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Dittrichring> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Russische+Ged%C3%A4chtniskirche> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Philipp-Rosenthal-Straße 51A, 04103 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Philipp-Rosenthal-Straße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Russische+Ged%C3%A4chtniskirche> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Philipp-Rosenthal-Straße> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Holocaust+memorial+Leipzig+germany> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Zentralstraße 4, 04109 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Zentralstraße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Holocaust+memorial+Leipzig+germany> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Zentralstraße> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/S%C3%BCdfriedhof+Leipzig> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Friedhofsweg 3, 04299 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Friedhofsweg> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/S%C3%BCdfriedhof+Leipzig> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Friedhofsweg> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Thomaskirche> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Thomaskirchhof 18, 04109 Leipzig, Deutschland" ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Thomaskirchhof> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Nikolaikirche+Leipzig> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Nikolaikirchhof 3, 04109 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Nikolaikirchhof> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Nikolaikirche+Leipzig> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Nikolaikirchhof> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Mendebrunnen> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Augustusplatz 15, 04109 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Augustusplatz> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Mendebrunnen> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Augustusplatz> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Gohliser+Schl%C3%B6sschen+%28Schloss%29> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Menckestraße 23, 04155 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Menckestraße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Gohliser+Schl%C3%B6sschen+%28Schloss%29> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Menckestraße> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Stadt+Leipzig> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Martin-Luther-Ring 4, 04109 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Martin-Luther-Ring> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Stadt+Leipzig> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Martin-Luther-Ring> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Wildpark+Leipzig> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Sehenswuerdigkeiten> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Koburger Str. 12 a, 04277 Leipzig, Deutschland" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Koburger+Stra%C3%9Fe> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Wildpark+Leipzig> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Koburger+Stra%C3%9Fe> .

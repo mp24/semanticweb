@@ -1,0 +1,33 @@
+@prefix : <> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Fabrik> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Leerstehende_Gebaeude> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Franz-Flemming-Str. 9" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Franz-Flemming-Straße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Fabrik> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Franz-Flemming-Straße> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Franz-Flemming-Str. 13-15" , "Franz-Flemming-Str. 25" , "Franz-Flemming-Str. 39" , "Georg-Schwarz Ecke Hupfeld-Str" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Georg-Schwarz-Straße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Fabrik> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Georg-Schwarz-Straße> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Speicher> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Leerstehende_Gebaeude> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Hafen Lindenau" .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Plautstraße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Speicher> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Plautstraße> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Kaufhaus> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Leerstehende_Gebaeude> ;
+	<http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#adresse> "Demmeringstr." .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Demmeringstraße> a <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#Ort> .
+
+<http://www.semanticweb.org/minhpham/ontologies/2017/5/Kaufhaus> <http://www.semanticweb.org/minhpham/ontologies/2017/5/projektvokabular#befindet_sich> <http://www.semanticweb.org/minhpham/ontologies/2017/5/Demmeringstraße> .

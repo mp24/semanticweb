@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="file:/Users/minhpham/Protege/ttl_neu/Ort.ttl" uri="Ort.ttl"/>
+    <uri id="User Entered Import Resolution" name="file:/Users/minhpham/Protege/ttl_neu/Ort.ttl" uri="vocab.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1501239770548" name="http://www.semanticweb.org/minhpham/ontologies/2017/6/untitled-ontology-68" uri="vocab.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1501239770548" name="http://www.semanticweb.org/minhpham/ontologies/2017/6/untitled-ontology-69" uri="vocabular.owl"/>
+    </group>
+</catalog>

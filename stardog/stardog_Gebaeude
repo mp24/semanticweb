@@ -1,0 +1,237 @@
+{
+  "head" : {
+    "vars" : [
+      "Sehenswuerdigkeiten",
+      "Ort_Sehenswuerdigkeit",
+      "ortsteil"
+    ]
+  },
+  "results" : {
+    "bindings" : [
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Mendebrunnen"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Augustusplatz"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum, Zentrum-Ost, Zentrum-Südost"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/B%C3%BCrgerkomitee+Leipzig+e.V."
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Dittrichring"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum, Zentrum-West"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/S%C3%BCdfriedhof+Leipzig"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Friedhofsweg"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Probstheida"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/GRASSI+Museum"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Johannisplatz"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum-Ost, Zentrum-Südost"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Museum+der+bildenden+K%C3%BCnste+Leipzig"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Katharinenstraße"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Wildpark+Leipzig"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Koburger+Stra%C3%9Fe"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Connewitz"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Stadtgeschichtliches+Museum+Leipzig%2C+Altes+Rathaus"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Markt"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Stadt+Leipzig"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Martin-Luther-Ring"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum, Zentrum-Süd, Zentrum-West"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Gohliser+Schl%C3%B6sschen+%28Schloss%29"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Menckestraße"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Gohlis-Süd"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Nikolaikirche+Leipzig"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Nikolaikirchhof"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Russische+Ged%C3%A4chtniskirche"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Philipp-Rosenthal-Straße"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Reudnitz-Thonberg, Zentrum-Südost"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Panometer+Leipzig"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Richard-Lehmann-Straße"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Connewitz, Marienbrunn, Probstheida, Südvorstadt, Zentrum-Südost"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Voelkerschlachtdenkmal"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Stra%C3%9Fe+des+18.+Oktober"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Probstheida, Zentrum-Südost"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Bach-Museum+Leipzig"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Thomaskirchhof"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Thomaskirche"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Thomaskirchhof"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum"
+        }
+      },
+      {
+        "Sehenswuerdigkeiten" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Holocaust+memorial+Leipzig+germany"
+        },
+        "Ort_Sehenswuerdigkeit" : {
+          "type" : "uri",
+          "value" : "http://www.semanticweb.org/minhpham/ontologies/2017/5/Zentralstraße"
+        },
+        "ortsteil" : {
+          "type" : "literal",
+          "value" : "Zentrum-West"
+        }
+      }
+    ]
+  }
+}
